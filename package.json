@@ -1,6 +1,6 @@
 {
   "name": "pyscript",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A JavaScript library that includes functions that act as close as possible to the Python counterparts",
   "main": "index.js",
   "directories": {
