@@ -38,8 +38,10 @@ yarn add pyscript
 
 #### Usage:
 
+I have no idea why it's like this. I'm a noob.
+
 ```js
-import Pyscript from "pyscript";
+import { Pyscript } from "pyscript";
 
 console.log(Pyscript);
 ```
