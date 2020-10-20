@@ -35,3 +35,11 @@ Package is not publish yet, hang tight!
 #### Shoot us a pull request and we will review changes right away
 
 #### If something doesn't work as intended for you Python programmers feel free to open an issue.
+
+## License
+
+#### This bad crappy code is licensed under the MIT license thingy
+
+## Disclaimer
+
+#### This code is crappy and some things in Python just can't be implemented into JavaScript :'(
