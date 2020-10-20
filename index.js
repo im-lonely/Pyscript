@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-export default "./lib/index.js";
+export * as Pyscript from "./lib/index.js";
