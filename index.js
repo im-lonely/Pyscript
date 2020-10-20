@@ -1,6 +1,6 @@
 export { Complex } from "./lib/classes/Complex.js";
 export { abs, bin, bytearray, bytes, callable } from "./lib/math.js";
-export { bool, breakpoint, range } from "./lib/utils.js";
+export { bool, breakpoint, chr, ord, range } from "./lib/utils.js";
 
 class Pyscript {
   constructor() {}
