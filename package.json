@@ -1,12 +1,14 @@
 {
   "name": "pyscript",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "A JavaScript library that includes functions that act as close as possible to the Python counterparts",
   "main": "index.js",
+  "bin": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,9 +21,10 @@
     "pyscript"
   ],
   "author": "im-lonely",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/im-lonely/Pyscript/issues"
   },
-  "homepage": "https://github.com/im-lonely/Pyscript#readme"
+  "homepage": "https://github.com/im-lonely/Pyscript#readme",
+  "type": "module"
 }
