@@ -1,18 +1,27 @@
 {
   "name": "pyscript",
-  "version": "0.0.1",
-  "description": "JavaScript library for Python programmers",
+  "version": "0.0.3",
+  "description": "A JavaScript library that includes functions that act as close as possible to the Python counterparts",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "test": "mocha"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/im-lonely/Pyscript.git"
   },
   "keywords": [
+    "python",
+    "javascript",
     "pyscript"
   ],
   "author": "im-lonely",
   "license": "ISC",
-  "displayName": "Pyscript",
-  "dependencies": {},
-  "devDependencies": {},
-  "type": "module"
+  "bugs": {
+    "url": "https://github.com/im-lonely/Pyscript/issues"
+  },
+  "homepage": "https://github.com/im-lonely/Pyscript#readme"
 }
