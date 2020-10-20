@@ -22,12 +22,26 @@ import { range } from "./path/to/pyscript";
 console.log(range(10, 20, 2));
 ```
 
-
 ### Using the package:
 
+#### Install using npm:
+
 ```
-Package is not publish yet, hang tight!
-:')
+npm install pyscript
+```
+
+#### Install using yarn:
+
+```
+yarn add pyscript
+```
+
+#### Usage:
+
+```js
+import Pyscript from "pyscript";
+
+console.log(Pyscript);
 ```
 
 ## Contributing
